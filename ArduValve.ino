@@ -40,7 +40,8 @@ void setup() {
 
 	Serial.begin(115200);
 
-	Serial.println("======== Jason Harriot 2019 ========");
+	Serial.println("======== Jason Harriot 2021 ========");
+  Serial.println("https://github.com/Montiey/ArduValve");
 	Serial.println("======= Manifold Adapter MK1 =======");
 }
 
